@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplo 01</string>
+    <string name="matricula">201735025</string>
+    <string name="matricula_label">Matricula:</string>
+    <string name="nome_label">Nome:</string>
+    <string name="nome">Lucas de Pace</string>
+</resources>
