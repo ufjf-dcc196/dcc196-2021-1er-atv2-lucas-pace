@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Exemplo 01</string>
-    <string name="matricula">201735025</string>
-    <string name="matricula_label">Matricula:</string>
-    <string name="nome_label">Nome:</string>
-    <string name="nome">Lucas de Pace</string>
+    <string name="app_name">Exemplo 02</string>
+    <string name="nome">Taliyah</string>
+    <string name="nome_label">Matricula:</string>
+    <string name="titulo">A TECELÃ DE PEDRAS</string>
+    <string name="titulo_label">Nome:</string>
+    <string name="texto">Taliyah é uma maga nômade de Shurima, dividida entre sua empolgação juvenil e suas grandes responsabilidades. Ela cruzou quase toda Valoran em uma jornada para conhecer a verdadeira natureza de seus próprios poderes, apesar de ter retornado recentemente para proteger sua tribo. Há aqueles que já interpretaram sua compaixão como fraqueza e pagaram o preço por isso, pois, debaixo do comportamento juvenil de Taliyah, existe uma determinação forte o suficiente para mover montanhas e um espírito feroz o suficiente para fazer a terra tremer.</string>
+    <string name="texto_label">texto</string>
 </resources>
